@@ -2,7 +2,7 @@
 
 Chat Gemini - A React-based Chatbot App Description Chat Gemini is a modern chatbot application built with React.js, featuring Google Authentication for secure user access. This project aims to provide a seamless chat experience powered by a Gemini-like conversational AI. Developed as a collaborative effort, it showcases a responsive UI and integrates Firebase for authentication.
 
-Team Members 1.Yesha Panchamia 2.Nishtha Bhushan 3.Tithi Biswas
+
 
 Features Google Authentication for user login Real-time chat interface Responsive design with a wavy background animation Built with React.js and Bootstrap for styling Firebase integration for auth management Tech Stack Frontend: React.js, Bootstrap, CSS Authentication: Firebase (Google Auth) Build Tool: Vite Linting: ESLint Version Control: Git, GitHub
 
